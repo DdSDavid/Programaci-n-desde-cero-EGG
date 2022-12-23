@@ -79,18 +79,7 @@ Mira el ***folder estructuras repetitivas Guía 2.2*** para visualizar una posib
 
 # Guía 3.1 🥚 🚀
 
-La guía 3.1 contiene los ejercicios de Subprogramas o SubProcesos.
-> Sintaxis de los SubProcesos
-```
-SubProceso <Nombre>(parámetros)
-    <acciones>
-FinSubProceso
-```
-Mira el ***folder Guía 3.1*** para visualizar una posible solución a c/u de los ejercicios de esta sección.
-
-# Guia 3.2 🥚 🚀
-
-La guía 3.2 contiene los ejercicios de Subprogramas(Funciones - Recursion).
+La guía 3.1 contiene los ejercicios de Subprogramas(Funciones - Recursion).
 > Sintaxis de las Funciones
 ```
 Funcion <variable_de_retorno> <- <Nombre>(Parámetros)
@@ -98,7 +87,18 @@ Funcion <variable_de_retorno> <- <Nombre>(Parámetros)
        <acciones> //cuerpo de la función
 FinFuncion
 ```
-Mira el ***folder Guia 3.2*** para visualizar una posible solución a c/u de los ejercicios de esta sección.
+Mira el ***folder Guia 3.1*** para visualizar una posible solución a c/u de los ejercicios de esta sección.
+
+# Guia 3.2 🥚 🚀
+
+La guía 3.2 contiene los ejercicios de Subprogramas o SubProcesos.
+> Sintaxis de los SubProcesos
+```
+SubProceso <Nombre>(parámetros)
+    <acciones>
+FinSubProceso
+```
+Mira el ***folder Guía 3.2*** para visualizar una posible solución a c/u de los ejercicios de esta sección.
 
 # Guía 4.1 🥚 🚀
 
