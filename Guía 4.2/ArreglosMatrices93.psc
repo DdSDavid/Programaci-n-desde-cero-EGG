@@ -29,7 +29,7 @@ Algoritmo ejercicioExtra7
 				FinSI
 			FinSi
 			
-			Escribir Sin Saltar "/" tabla(i,j) "/"
+			Escribir Sin Saltar "|" tabla(i,j) "|"
 		FinPara
 		Escribir ""
 	FinPara
@@ -51,7 +51,7 @@ SubProceso totalproducto(matriz)
 			totalfila = totalfila + matriz(i,j)
 		FinPara
 		matriz(i,6) = totalfila
-		Escribir Sin Saltar totalfila "/"
+		Escribir Sin Saltar totalfila "|"
 		Escribir ""
 	FinPara
 	
@@ -67,7 +67,7 @@ SubProceso totalsemana(matriz)
 			totaldia = totaldia + matriz(i,j)
 			matriz(6,j) = totaldia
 		FinPara
-		Escribir Sin Saltar totaldia "/"
+		Escribir Sin Saltar totaldia "|"
 	FinPara
 	
 FinSubProceso
@@ -83,7 +83,7 @@ SubProceso productomasvendido(matriz)
 			FinSi
 			matriz(7,j) = producto
 		FinPara
-		Escribir Sin Saltar producto "/"
+		Escribir Sin Saltar producto "|"
 		
 	FinPara
 	
